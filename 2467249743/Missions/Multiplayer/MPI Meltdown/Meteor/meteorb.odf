@@ -1,0 +1,11 @@
+[GameObjectClass]
+classLabel = "FXMine"
+
+[MineClass]
+lifeSpan = 20.0
+
+[FlareMineClass]
+payloadName = "meteorc"
+shotDelay = 1.5 // 1.5
+shotVariance = 1.5
+
